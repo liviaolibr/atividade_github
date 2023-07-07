@@ -5,3 +5,5 @@ Git add: é o comando usado para adicionar arquivos ao controle de versão;
 Git status: comando para checar o status de um repositório git;
 
 Git commit: cria uma nova versão do arquivo, onde é possível atribuir algumas coordenadas do que foi modificado dentro do arquivo de texto, por exemplo;
+
+Git pull: comando que permite que o seu projeto local esteja com as mesmas atualizações do projeto na nuvem.
