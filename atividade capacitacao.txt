@@ -1,1 +1,3 @@
 Conceitos:
+
+Git add: é o comando usado para adicionar arquivos ao controle de versão;
