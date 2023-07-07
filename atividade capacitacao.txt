@@ -1,3 +1,5 @@
 Conceitos:
 
 Git add: é o comando usado para adicionar arquivos ao controle de versão;
+
+Git status: comando para checar o status de um repositório git;
