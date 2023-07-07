@@ -9,3 +9,5 @@ Git commit: cria uma nova versão do arquivo, onde é possível atribuir algumas
 Git pull: comando que permite que o seu projeto local esteja com as mesmas atualizações do projeto na nuvem.
 
 Git push: responsável por enviar o conteúdo trabalhado para o repositório remoto;
+
+Pull request: comando que permite solicitar a aprovação do sue projeto, ou de commits específicos;
